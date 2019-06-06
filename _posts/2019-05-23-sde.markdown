@@ -1,0 +1,15 @@
+---
+title: "Software Engineering Interviews - Decoded!"
+layout: post
+date: 2019-05-23 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Interviews
+- Software Engineering
+- System Design 
+category: blog
+author: Dhiraj
+description: Everything that I have learned about Spark and Scala
+externalLink: https://medium.com/@dramnani/software-engineering-interviews-decoded-90aecd1424bd
+---

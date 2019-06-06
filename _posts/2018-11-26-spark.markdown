@@ -1,0 +1,17 @@
+---
+title: "My Realizations with Spark and Scala"
+layout: post
+date: 2018-11-26 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Spark
+- Scala
+- Data Mining
+- Distributed Systems
+- Hadoop
+category: blog
+author: Dhiraj
+description: Everything that I have learned about Spark and Scala
+externalLink: https://medium.com/@dramnani/my-realizations-with-spark-and-scala-5f5886d97919
+---
